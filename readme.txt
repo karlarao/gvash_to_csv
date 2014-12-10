@@ -17,3 +17,7 @@ then do
 nohup sh rungash.sh &
 
 
+# This can also be deployed as a Metric Extension, check here for the step by step https://github.com/karlarao/gvash_to_csv/releases/download/v1.0/Metric.Extension.-.gvash.to.csv.docx
+
+
+
